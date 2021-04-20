@@ -23,4 +23,4 @@ Define functions to:
     * output is the head of the span (single word)
 5. extract sentence subject, direct object and indirect object spans
     * input is a sentence, you parse it and get a Doc object of spaCy
-    * output is dict of lists of words that form a span (not a single word) for subject, direct object, and indirect object (if present of course, otherwise empty)
+    * output is dict of lists of words that form a span (not a single word) for subject, direct object, and indirect object
